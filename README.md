@@ -1,6 +1,6 @@
 <h2 align="center"> 💞️ Samantha Gillies - Junior Software Developer 💞️ </h1>
 
-<div align="center"> <h4>👋 Hello World, I’m Samantha.</h4>
+<div align="start"> <h4>👋 Hello World, I’m Samantha.</h4>
 
 👀 I’m interested in the endless possibilities that coding unlocks and how technology can transform our world.
 
@@ -10,6 +10,9 @@
 💞️ I’m looking to collaborate on exciting projects that challenge and inspire, as I embark on my journey as a junior software developer.
 
 📫 How to reach me: https://www.linkedin.com/in/sjaygill/ - Feel free to connect, whether it's about coding, collaboration, or just a friendly chat!
+</div>
+<div align="end">
+  ![IMG_5107-removebg-preview](https://github.com/samjaygill/samjaygill/assets/138401809/d9583a8e-6b46-4991-8f66-4375215c8ef5)
 </div>
 <!---
 samjaygill/samjaygill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

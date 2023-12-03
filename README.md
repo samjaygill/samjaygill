@@ -11,9 +11,6 @@
 💞️ I’m looking to collaborate on exciting projects that challenge and inspire, as I embark on my journey as a junior software developer.
 
 📫 How to reach me: https://www.linkedin.com/in/sjaygill/ - Feel free to connect, whether it's about coding, collaboration, or just a friendly chat!
-<div align="center">
-  <img src="https://i.ibb.co/tPfjsJT/IMG-5107-removebg-preview.png" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px;">
-</div>
 </div>
 <hr/>
 <div align="center">

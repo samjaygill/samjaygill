@@ -12,7 +12,7 @@
 📫 How to reach me: https://www.linkedin.com/in/sjaygill/ - Feel free to connect, whether it's about coding, collaboration, or just a friendly chat!
 </div>
 <div align="end">
-  ![IMG_5107-removebg-preview](https://github.com/samjaygill/samjaygill/assets/138401809/d9583a8e-6b46-4991-8f66-4375215c8ef5)
+ 
 </div>
 <!---
 samjaygill/samjaygill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,7 +11,23 @@
 
 📫 How to reach me: https://www.linkedin.com/in/sjaygill/ - Feel free to connect, whether it's about coding, collaboration, or just a friendly chat!
 </div>
-<div align="end">
+<div align="start">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python%20-%20purple"> <img alt="Static Badge" src="https://img.shields.io/badge/Javascript%20-%20blue">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Java%20-%20pink"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20-%20yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-%20orange"> <img alt="Static Badge" src="https://img.shields.io/badge/React%20-%20grey"> <img alt="Static Badge" src="https://img.shields.io/badge/Flask%20-%20brown"> <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot%20-%20purple"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20-%20pink"> <img alt="Static Badge" src="https://img.shields.io/badge/FireBase%20-%20black"> <img alt="Static Badge" src="https://img.shields.io/badge/Teamwork%20-%20blue"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML%20-%20green"> <img alt="Static Badge" src="https://img.shields.io/badge/css%20-%20grey"> <img alt="Static Badge" src="https://img.shields.io/badge/sass%20-%20brown"> <img alt="Static Badge" src="https://img.shields.io/badge/API%20-%20orange">
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
 </div>
 <!---
 samjaygill/samjaygill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

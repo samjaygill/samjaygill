@@ -19,8 +19,8 @@
 </div>
 <hr/>
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samjaygill&theme=swift" height="175px"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samjaygill&theme=swift" height="175px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samjaygill&theme=swift" height="160px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samjaygill&theme=swift" height="160px"/>
   </div>
 <!---
 samjaygill/samjaygill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

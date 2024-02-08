@@ -20,8 +20,16 @@
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samjaygill&theme=swift" height="160px" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samjaygill&theme=swift" height="160px" />
+  <br/>
+ <a href="https://github.com/samjaygill/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=samjaygill&style=for-the-badge&color=ff69b4">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?username=samjaygill)
   </div>
-  ![](https://komarev.com/ghpvc/?username=samjaygill&color=ff69b4)
 <!---
 samjaygill/samjaygill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

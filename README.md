@@ -7,7 +7,7 @@
 
 
 🌱 I’m currently learning and expanding my skill set after successfully completing CodeClan's 16-week immersive course. As a career changer from administration, I've dived deep into Python, JavaScript, Java, databases and testing.
-]
+
 
 📫 How to reach me: https://www.linkedin.com/in/sjaygill/ - Feel free to connect with me!
 </div>
